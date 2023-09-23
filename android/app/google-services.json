@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436163970075",
+    "project_id": "airplane-booking-app-f5420",
+    "storage_bucket": "airplane-booking-app-f5420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436163970075:android:a0fba0266c61b47ec764be",
+        "android_client_info": {
+          "package_name": "com.abghifareihand.airplane_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLEs4Ckp64SxtJchKVxHLyLlvQIup0aE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
